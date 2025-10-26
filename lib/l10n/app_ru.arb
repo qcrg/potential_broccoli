@@ -1,0 +1,63 @@
+{
+  "app_title": "Potential Broccoli",
+  "language": "Русский",
+
+  "january": "Январь",
+  "february": "Февраль",
+  "march": "Март",
+  "april": "Апрель",
+  "may": "Май",
+  "june": "Июнь",
+  "july": "Июль",
+  "august": "Август",
+  "september": "Сентябрь",
+  "october": "Октябрь",
+  "november": "Ноябрь",
+  "december": "Декабрь",
+
+  "short_january": "Янв",
+  "short_february": "Фев",
+  "short_march": "Mar.",
+  "short_april": "Apr.",
+  "short_may": "May",
+  "short_june": "Jun.",
+  "short_july": "Jul.",
+  "short_august": "Aug.",
+  "short_september": "Sep.",
+  "short_october": "Oct.",
+  "short_november": "Nov.",
+  "short_december": "Dec.",
+
+  "settings": "Настройки",
+  "settings_group_appearance": "Внешний вид",
+  "settings_group_general": "Основные",
+  "settings_language": "Язык",
+  "settings_theme": "Тема",
+  "settings_description_theme": "Изменить тему приложения",
+  "settings_description_language": "Изменить язык приложения",
+
+  "theme_dark": "Темная",
+  "theme_light": "Светлай",
+  "theme_system": "Системная",
+
+  "full_name": "ФИО",
+  "nickname": "Псевдоним",
+  "birthday": "Дата рождения",
+
+  "add": "Добавить",
+  "add_user": "Добавить пользователя",
+
+  "are_you_sure": "Вы уверены?",
+  "has_unsaved_data": "У вас есть не сохраненные данные, вы действительно хотите покинуть эту страницу?",
+  "cancel": "Отмена",
+  "leave": "Покинуть",
+  "ok": "Ок",
+  "error": "Ошибка",
+
+  "user_is_not_added": "Новый пользователь не был добавлен.",
+  "internal_error": "Внутренняя ошибка.",
+  "dont_worry_old_data_ok": "Не волнуйтесь, старые данные остались нетронутыми",
+
+  "export": "Экспорт",
+  "import": "Импорт"
+}

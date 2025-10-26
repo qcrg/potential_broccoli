@@ -1,0 +1,64 @@
+{
+  "app_title": "Potential Broccoli",
+  "language": "English",
+
+  "january": "January",
+  "february": "February",
+  "march": "March",
+  "april": "April",
+  "may": "May",
+  "june": "June",
+  "july": "July",
+  "august": "August",
+  "september": "September",
+  "october": "October",
+  "november": "November",
+  "december": "December",
+
+  "short_january": "Jan.",
+  "short_february": "Feb.",
+  "short_march": "Mar.",
+  "short_april": "Apr.",
+  "short_may": "May",
+  "short_june": "Jun.",
+  "short_july": "Jul.",
+  "short_august": "Aug.",
+  "short_september": "Sep.",
+  "short_october": "Oct.",
+  "short_november": "Nov.",
+  "short_december": "Dec.",
+
+  "settings": "Settings",
+  "settings_group_appearance": "Appereance",
+  "settings_group_general": "General",
+  "settings_language": "Language",
+  "settings_theme": "Theme",
+  "settings_description_theme": "Change the application theme",
+  "settings_description_language": "Change the application language",
+
+  "theme_dark": "Dark",
+  "theme_light": "Light",
+  "theme_system": "System",
+
+  "full_name": "Full Name",
+  "nickname": "Nickname",
+  "birthday": "Birthday",
+
+  "add": "Add",
+  "add_user": "Add user",
+
+  "are_you_sure": "Are you sure?",
+  "has_unsaved_data": "You have an unsaved data, are you sure want to leave this page?",
+  "cancel": "Cancel",
+  "leave": "Leave",
+  "ok": "Ok",
+  "error": "Error",
+
+  "user_is_not_added": "New user is not added.",
+  "user_added": "New user is added.",
+  "internal_error": "Internal error.",
+  "dont_worry_old_data_ok": "Don't worry, the old data is intact.",
+
+  "export": "Export",
+  "import": "Import"
+}
